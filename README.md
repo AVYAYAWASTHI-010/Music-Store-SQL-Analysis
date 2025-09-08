@@ -56,7 +56,13 @@ Here are some examples of business questions answered in this project:
 ## 🚀 How to Run This Project
 Follow these steps to set up and run the analysis:
 
-### 1️⃣ Clone the repository
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/AVYAYAWASTHI-010/Music-Store-SQL-Analysis.git
 cd Music-Store-SQL-Analysis
+
+# 2️⃣ Import the database into PostgreSQL
+\i music_store.sql
+
+# 3️⃣ Run the analysis queries
+\i analysis_queries.sql
