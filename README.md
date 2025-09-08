@@ -19,7 +19,8 @@ The analysis focuses on identifying **top customers, revenue trends, popular gen
 ## 🗂️ Database Schema
 Below is the schema diagram representing the relationships between tables:
 
-![Database Schema](schema.png)
+![Database Schema](https://github.com/AVYAYAWASTHI-010/Music-Store-SQL-Analysis/blob/main/MusicDatabaseSchema.png)
+
 
 ---
 
