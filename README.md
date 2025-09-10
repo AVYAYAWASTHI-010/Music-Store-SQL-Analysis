@@ -66,3 +66,8 @@ cd Music-Store-SQL-Analysis
 
 # 3️⃣ Run the analysis queries
 \i analysis_queries.sql
+
+
+
+
+
